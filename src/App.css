@@ -1,0 +1,40 @@
+.logo.vite:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafb);
+}
+
+
+.encrypt-pass {
+ width: 50%;
+}
+
+.encrypt-btn {
+ width: 50%;
+}
+
+article {
+ margin-top:5px !important;
+ margin-bottom:5px !important;
+}
+
+
+.middle-component {
+  display:flex;
+}
+
+.middle-component .switch {
+  align-self:center;
+}
+
+.middle-component div {
+  width:35%;
+  padding-right:3%;
+}
+
+#root {
+ padding-top:0px !important;
+ padding-bottom:0px !important;
+}
